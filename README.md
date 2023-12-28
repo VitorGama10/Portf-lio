@@ -1,6 +1,6 @@
 # Portf-lio
 Conheça um pouco mais sobre mim!!
--------------------------------------------------------------------
+
 Linguagens de Programação:
 Dominando a linguagem Java, desenvolvi habilidades sólidas na criação de aplicações robustas e eficientes. Minha experiência abrange desde a programação orientada a objetos até a implementação de soluções avançadas.
 
